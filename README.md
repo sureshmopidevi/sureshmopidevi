@@ -1,8 +1,7 @@
 ### Hello there
 I was an iOS Developer, Checkout my Portifolio
 
-
-[![Portifolio](https://github.com/sureshmopidevi/sureshmopidevi/blob/master/bannertest.svg "Portifolio")](https://github.com/sureshmopidevi/sureshmopidevi/blob/master/bannertest.svg "Portifolio")
+[![Portfolio](https://github.com/sureshmopidevi/sureshmopidevi/blob/master/bannertest.svg "Portfolio")](https://github.com/sureshmopidevi/sureshmopidevi/blob/master/bannertest.svg "Portfolio")
 <!--
 **sureshmopidevi/sureshmopidevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
