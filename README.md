@@ -1,5 +1,5 @@
 ### Hello there
-I was an iOS Developer, Checkout my Portifolio
+I'm an iOS Developer, Checkout my Portifolio
 
 [![Portfolio](https://github.com/sureshmopidevi/sureshmopidevi/blob/master/bannertest.svg "Portfolio")](https://github.com/sureshmopidevi/sureshmopidevi/blob/master/bannertest.svg "Portfolio")
 <!--
