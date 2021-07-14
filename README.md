@@ -16,6 +16,8 @@ package manager**, **Cocoapods**.
 - Working Experience in integrating the latest technologies like **Firebase**, and **Twilio**.
 - Hands on experience in Implementing Camera and video Services **AVFoundation**.
 
+and i write optimistic code and ensure crash free apps. 
+
 ### Bonus
  ☄️ I have experince in Mobile app UI designing. You can find my mistery knowledge on UI design while we work together 😁
   
