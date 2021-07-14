@@ -17,7 +17,7 @@ Having good working experience in integrating social logins like Facebook, Googl
 - Hands on experience in Implementing Camera Services AVFoundation.
 
 ### Bonus
- ☄️ I was a formal Mobile app UI designer. You can find my mistery knowledge on UI design when we work together 😁
+ ☄️ I have experince in Mobile app UI designing. You can find my mistery knowledge on UI design while we work together 😁
   
 ### Go ahead and checkout my open sourced UI designs built with swift UI 🌝
 
