@@ -1,6 +1,6 @@
-### Suresh Mopidevi -- @sureshmopidevi
+## Suresh Mopidevi -- @sureshmopidevi 😎
 
-Hello there , Im Suresh mopidevi. I build iOS applications and Software development kits with **Swift** programming language (sweetest ever) from last 3.6 years.
+🌳 Hello there , Im Suresh mopidevi. I build iOS applications and Software development kits with **Swift** programming language (sweetest ever) from last 3.6 years.
 
 ### Things i was expertise on 
 - Experience in creating UI interfaces with Storyboards and Programmatically with
@@ -17,10 +17,10 @@ Having good working experience in integrating social logins like Facebook, Googl
 - Hands on experience in Implementing Camera Services AVFoundation.
 
 ### Bonus
-  I was a formal Mobile app UI designer. You can find my mistery knowledge on UI design when we work together 😁
+ ☄️ I was a formal Mobile app UI designer. You can find my mistery knowledge on UI design when we work together 😁
   
-### Go ahead and checkout my open sourced UI designs built with swift UI
+### Go ahead and checkout my open sourced UI designs built with swift UI 🌝
 
 
-### Contact
+### ✉️ Contact
 You can reach me via this email address: [**iosdevsuresh@gmail.com**]
