@@ -19,7 +19,7 @@ package manager**, **Cocoapods**.
 and i write optimistic code and ensure crash free apps. 
 
 ### Bonus
- ☄️ I have experince in Mobile app UI designing. You can find my mistery knowledge on UI design while we work together 😁
+ ☄️ I have experince in Mobile app UI designing. You can find my mistery knowledge while we work together 😁
   
 ### Go ahead and checkout my open sourced UI designs built with swift UI 🌝
 
