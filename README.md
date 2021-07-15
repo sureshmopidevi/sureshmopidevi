@@ -1,6 +1,6 @@
 ## Suresh Mopidevi -- @sureshmopidevi 😎
 
-🌳 Hello there , Im Suresh mopidevi. I build iOS applications and Software development kits with **Swift** programming language (sweetest ever) from last 3.6 years.
+🌳 Hello there , Im Suresh mopidevi, Im from india 🇮🇳. I build iOS applications and Software development kits with **Swift** programming language (sweetest ever) from last 3.6 years. I love speed, Wait! not the speed you are thinking about.  I love to build very responsive applications, and honestly i love high configured laptop 💻 and stable internet connection 🌐 to make work done.
 
 ### Things i was expertise on 
 - Experience in creating UI interfaces with **Storyboards** and Programmatically with
