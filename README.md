@@ -1,6 +1,6 @@
 ## Suresh Mopidevi -- @sureshmopidevi 😎
 
-🌳 Hello there , Im Suresh mopidevi, Im from india 🇮🇳. I build iOS applications and Software development kits with **Swift** programming language (sweetest ever) from last 3.6 years. I love speed, Wait! not the speed you are thinking about.  I love to build very responsive applications, and honestly i love high configured laptop 💻 and stable internet connection 🌐 to make work done.
+🌳 Hello there , I'm Suresh, I'm from INDIA 🇮🇳. I build iOS applications and Software development kits with **Swift** programming language (the sweetest ever) from last 3.6 years. I love speed, Wait! Not the speed you are thinking about.  I love to build very responsive applications, and honestly i love high configured laptop 💻 and stable internet connection 🌐 to make work done.
 
 ### Things i was expertise on 
 - Experience in creating UI interfaces with **Storyboards** and Programmatically with
@@ -14,12 +14,12 @@ package manager**, **Cocoapods**.
 - Experience in Implementing Persistence database with **Core data**, **Realm**.
 - Having good working experience in integrating social logins like **Facebook, Google**.
 - Working Experience in integrating the latest technologies like **Firebase**, and **Twilio**.
-- Hands on experience in Implementing Camera and video Services **AVFoundation**.
+- Hands-on experience in Implementing Camera and video Services **AVFoundation**.
 
-and i write optimistic code and ensure crash free apps. 
+And I write optimistic code and ensure crash free apps. 
 
 ### Bonus
- ☄️ I have experince in Mobile app UI designing. You can find my mistery knowledge while we work together 😁
+ ☄️ I have experience in Mobile app UI designing. You can find my mystery knowledge while we work together 😁
   
 ### Go ahead and checkout my open sourced UI designs built with swift UI 🌝
 
