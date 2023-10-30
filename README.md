@@ -1,28 +1,28 @@
-## Suresh Mopidevi -- @sureshmopidevi 😎
+## Suresh Mopidevi — @sureshmopidevi 😎
 
-🌳 Hello there , I'm Suresh, I'm from INDIA 🇮🇳. I build iOS applications and Software development kits with **Swift** programming language (the sweetest ever) from last 3.6 years. I love speed, Wait! Not the speed you are thinking about.  I love to build very responsive applications, and honestly i love high configured laptop 💻 and stable internet connection 🌐 to make work done.
+🌳 Hello there, I'm Suresh, an enthusiastic software developer based in INDIA 🇮🇳. With a passion for crafting exceptional software experiences, I've been on an exciting journey in the world of mobile app development for the past 3.6 years. My programming language of choice is the sweet and swift Swift, which I use to build iOS applications and Software Development Kits.
 
-### Things i was expertise on 
-- Experience in creating UI interfaces with **Storyboards** and Programmatically with
-**Auto layouts**.
-- Experience working with RESTful API type web services with **URLSession** and
-**Alamofire**.
-- Hands-on experience in building and integrating third-party libraries using **Swift
-package manager**, **Cocoapods**.
-- Hands-on experience in Integrating **Google MLKit**, **TensorflowLite**, **CoreML**.
-- Hands-on Experience in integrating **Push notifications** and
-- Experience in Implementing Persistence database with **Core data**, **Realm**.
-- Having good working experience in integrating social logins like **Facebook, Google**.
-- Working Experience in integrating the latest technologies like **Firebase**, and **Twilio**.
-- Hands-on experience in Implementing Camera and video Services **AVFoundation**.
+### What I Bring to the Table
+- **iOS Expertise**: I specialize in creating stunning UI interfaces, both with Storyboards and Programmatically using Auto Layouts. My aim is to deliver responsive and user-friendly applications that leave an impact.
 
-And I write optimistic code and ensure crash free apps. 
+- **RESTful API Mastery**: I have hands-on experience in working with RESTful APIs, utilizing tools like URLSession and Alamofire to make seamless data exchanges between applications and servers.
+
+- **Flutter Marvel**: In addition to my iOS prowess, I bring a solid 2 years of experience with Flutter, a versatile framework for crafting beautiful cross-platform mobile applications. My skills in Flutter extend to developing modular and high-performing code snippets.
+
+- **Third-party Wizardry**: I'm adept at integrating third-party libraries using Swift Package Manager and CocoaPods, enhancing the functionality of apps with ease.
+
+- **AI & ML Integration**: My toolkit includes technologies like Google MLKit, TensorFlowLite, and CoreML, which I leverage to bring the magic of artificial intelligence and machine learning to my projects.
+
+- **Persistence and Beyond**: I'm well-versed in implementing persistence databases using Core Data and Realm for data management.
+
+- **Social Logins**: I can seamlessly integrate social login features, be it through Facebook, Google, or other platforms.
+
+- **The Latest Tech**: I keep up with the latest trends and technologies, such as Firebase and Twilio, ensuring that my applications are always at the cutting edge of innovation.
+
+- **Visual Storyteller**: I have experience in Mobile app UI design, so you can expect visually appealing and intuitive interfaces in my creations.
 
 ### Bonus
- ☄️ I have experience in Mobile app UI designing. You can find my mystery knowledge while we work together 😁
-  
-### Go ahead and checkout my open sourced UI designs built with swift UI 🌝
-
+ ☄️ I've designed open-source UI projects with Swift UI. You're welcome to explore my creative side while we work together! 😁
 
 ### ✉️ Contact
-You can reach me via this email address: [**iosdevsuresh@gmail.com**]
+You can reach me via email at [iosdevsuresh@gmail.com].
