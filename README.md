@@ -7,7 +7,7 @@
 
 - **RESTful API Mastery**: I have hands-on experience in working with RESTful APIs, utilizing tools like URLSession and Alamofire to make seamless data exchanges between applications and servers.
 
-- **Flutter Marvel**: In addition to my iOS prowess, I bring a solid 2 years of experience with Flutter, a versatile framework for crafting beautiful cross-platform mobile applications. My skills in Flutter extend to developing modular and high-performing code snippets.
+- **Flutter Marvel**: With a solid 2 years of experience in Flutter, I bring expertise in crafting beautiful cross-platform mobile applications. My skills in Flutter extend to developing modular and high-performing code snippets.
 
 - **Third-party Wizardry**: I'm adept at integrating third-party libraries using Swift Package Manager and CocoaPods, enhancing the functionality of apps with ease.
 
