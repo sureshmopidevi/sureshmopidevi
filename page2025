@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suresh Mopidevi // Flutter Developer</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto+Mono:wght@300;400&display=swap');
+
+        /* * --- BASIC SETUP ---
+         * 'Orbitron' is for headings (futuristic feel)
+         * 'Roboto Mono' is for body text (monospaced, code-like)
+         */
+        body {
+            background-color: #0a0a1a; /* Very dark blue */
+            color: #d0d0ff;
+            font-family: 'Roboto Mono', monospace;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 900px;
+            border: 1px solid #404080;
+            background-color: #10102a;
+            padding: 2rem;
+            box-shadow: 0 0 25px rgba(60, 60, 200, 0.3);
+            border-radius: 8px;
+        }
+
+        /* * --- TYPOGRAPHY & NEON GLOW ---
+         * The text-shadow effect creates the "glow"
+         */
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            color: #ffffff;
+            text-shadow:
+                0 0 5px #fff,
+                0 0 10px #fff,
+                0 0 20px #00ffff, /* Cyan glow */
+                0 0 30px #00ffff,
+                0 0 40px #00ffff;
+            margin-bottom: 0.5rem;
+        }
+
+        h2 {
+            font-family: 'Orbitron', sans-serif;
+            color: #00ffff;
+            border-bottom: 1px solid #404080;
+            padding-bottom: 5px;
+            margin-top: 2rem;
+        }
+
+        /* * --- TYPING EFFECT ---
+         * The "typing-text" class is the target for our JavaScript.
+         * The "cursor" creates a blinking effect.
+         */
+        .typing-text {
+            font-size: 1.2rem;
+            color: #f0f0f0;
+            display: inline;
+        }
+
+        .cursor {
+            display: inline-block;
+            width: 10px;
+            height: 1.2rem;
+            background-color: #00ffff;
+            animation: blink 0.7s infinite;
+            margin-left: 3px;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        /* * --- LINKS & SKILLS ---
+         */
+        a {
+            color: #ff00ff; /* Magenta links */
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        a:hover {
+            color: #ffffff;
+            text-shadow: 0 0 10px #ff00ff;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+        }
+
+        .skill-card {
+            background: #1a1a3a;
+            border: 1px solid #404080;
+            padding: 1rem;
+            border-radius: 4px;
+            text-align: center;
+            font-weight: 700;
+            transition: all 0.3s ease;
+        }
+
+        .skill-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 255, 255, 0.2);
+            border-color: #00ffff;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Suresh Mopidevi</h1>
+        <div id="typing-container">
+            <span class="typing-text"></span>
+            <span class="cursor"></span>
+        </div>
+
+        <h2>// ABOUT_ME</h2>
+        <p>
+            A Flutter Developer with a passion for building intuitive, high-performance mobile applications.
+            With a strong background in iOS development, I bring a blend of creativity, technical expertise,
+            and user-centered design to every project.
+        </p>
+        <p>
+            Find me on <a href="https://github.com/sureshmopidevi" target="_blank">GitHub</a>.
+            Let's build together.
+        </p>
+
+        <h2>// CORE_SKILLS</h2>
+        <div class="skills-grid">
+            <div class="skill-card">Flutter</div>
+            <div class="skill-card">iOS Development</div>
+            <div class="skill-card">Cross-Platform</div>
+            <div class="skill-card">AI/ML Integration</div>
+            <div class="skill-card">UI/UX Design</div>
+            <div class="skill-card">Open Source</div>
+        </div>
+
+        <h2>// PROJECTS</h2>
+        <p>
+            My GitHub is a showcase of the projects, tools, and ideas I’ve worked on.
+            (You can list your main projects here as futuristic cards).
+        </p>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const lines = [
+                "Flutter Developer.",
+                "Cross-Platform Specialist.",
+                "AI/ML Enthusiast.",
+                "Former iOS Developer.",
+                "Building intuitive apps."
+            ];
+            let lineIndex = 0;
+            let charIndex = 0;
+            let isDeleting = false;
+            const typingElement = document.querySelector('.typing-text');
+            const cursorElement = document.querySelector('.cursor');
+            const typingSpeed = 100;
+            const erasingSpeed = 50;
+            const delayBetweenLines = 2000;
+
+            function type() {
+                const currentLine = lines[lineIndex];
+                
+                if (isDeleting) {
+                    // Deleting text
+                    typingElement.textContent = currentLine.substring(0, charIndex - 1);
+                    charIndex--;
+                    if (charIndex === 0) {
+                        isDeleting = false;
+                        lineIndex = (lineIndex + 1) % lines.length;
+                        setTimeout(type, 500); // Pause before typing new line
+                    } else {
+                        setTimeout(type, erasingSpeed);
+                    }
+                } else {
+                    // Typing text
+                    typingElement.textContent = currentLine.substring(0, charIndex + 1);
+                    charIndex++;
+                    if (charIndex === currentLine.length) {
+                        isDeleting = true;
+                        setTimeout(type, delayBetweenLines); // Wait before deleting
+                    } else {
+                        setTimeout(type, typingSpeed);
+                    }
+                }
+            }
+            
+            type(); // Start the animation
+        });
+    </script>
+
+</body>
+</html>
