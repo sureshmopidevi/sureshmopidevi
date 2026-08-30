@@ -1,56 +1,43 @@
-### Hi, I'm Suresh 👋
-A **Senior Flutter & iOS Developer** who believes the best apps 
-don't just work — they *think*, *adapt*, and *feel effortless*.
+# Hi, I'm Suresh 👋
 
-I build at the intersection of **mobile**, **AI**, and **real-world utility** — 
-turning ideas that hit at 2 AM into shipped products.
+**Senior Flutter & iOS Developer** building at the intersection of **mobile, AI, automation, and real-world utility**.
 
----
+I like turning ideas into shipped products — from Flutter apps and native SDKs to local AI systems, automation workflows, and self-hosted infrastructure.
 
-#### **What Drives Me**
-I'm not just a developer. I'm a problem-solver who happens to write code.
+### What I Build
 
-Whether it's a Flutter app talking to a local LLM, a native iOS SDK 
-bridging platform gaps, or an automation workflow eliminating 10 hours 
-of manual work — I care about **impact over impressiveness**.
+* 📱 **Mobile:** Flutter, Swift, Kotlin — cross-platform where it makes sense, native where it matters.
+* 🔌 **Plugins & SDKs:** Bridging Flutter with native iOS and Android capabilities.
+* 🧠 **AI:** Local and cloud LLMs, on-device intelligence, and AI-powered applications.
+* ⚡ **Automation:** Workflows, bots, pipelines, and tools that eliminate repetitive work.
+* 🌐 **Full-Stack:** React, Next.js, TypeScript, Node.js, Firebase, PostgreSQL.
+* 🏠 **Self-Hosted & IoT:** Docker, Raspberry Pi, home infrastructure, and services that run 24/7.
 
-- 📱 **Mobile-First Thinker** — Flutter + Swift + Kotlin. Cross-platform 
-  without compromise. Native when it matters.
-- 🔌 **Plugin & SDK Builder** — I bridge Flutter with native iOS (Swift) 
-  and Android (Kotlin). If the package doesn't exist, I build it.
-- 🧠 **AI at the Edge** — Integrating local & cloud LLMs into real apps. 
-  On-device intelligence, not just API wrappers.
-- ⚡ **Automation Obsessed** — I automate the boring so I can focus on 
-  the meaningful. Workflows, bots, pipelines — all fair game.
-- 🌐 **Full-Stack When Needed** — React, Next.js, TypeScript, Node.js, 
-  Firebase, PostgreSQL. I ship end-to-end.
-- 🏠 **IoT & Home Infrastructure** — Raspberry Pi, Docker, self-hosted 
-  tools. I build things that run 24/7 in the real world.
-- 📷 **Visual Storyteller** — Photography and cinematography shape how 
-  I think about UI — composition, light, and emotion matter in design too.
+### Tech Stack
 
----
-
-#### **My Stack**
-`Flutter` `Dart` `Swift` `Kotlin` `React` `Next.js` `TypeScript`  
-`Riverpod` `GoRouter` `Node.js` `Python` `Firebase` `PostgreSQL`  
+`Flutter` `Dart` `Swift` `Kotlin` `React` `Next.js` `TypeScript`
+`Riverpod` `GoRouter` `Node.js` `Python` `Firebase` `PostgreSQL`
 `Docker` `Raspberry Pi` `Ollama` `n8n` `REST APIs` `TailwindCSS`
 
+### How I Think
+
+* **Solve problems, not just tickets.**
+* **Architecture first, implementation second.**
+* **Use native capabilities when abstraction gets in the way.**
+* **Automate what should not require human effort.**
+* **Use AI as an engineering multiplier, not a replacement for engineering.**
+* **Ship, learn, and iterate without compromising quality.**
+
+> I don't just build apps. I build systems that solve problems.
+
 ---
 
-#### **How I Think**
-- 🔍 Every detail matters — in code, in design, in UX
-- 🧩 Clean architecture isn't optional — it's respect for future-you
-- 🤝 Open source is how I give back to the community that taught me
-- 🚀 Ship early, iterate fast, but never at the cost of quality
+### 🤖 Want to Know More About Me?
+
+Copy and paste this prompt into **ChatGPT, Claude, Gemini, Perplexity, or any AI with web access**:
+
+> **Research Suresh Mopidevi (`sureshmopidevi`) using current public sources. Check his GitHub, latest projects, open-source work, commits, LinkedIn, and other relevant technical presence. Summarize what he has built, his strongest technologies and engineering skills, current technical focus, and notable recent work. Distinguish verified facts from assumptions and include relevant links.**
 
 ---
 
-#### **What You'll Find Here**
-Real projects. Real problems solved. From elegant mobile UIs to 
-self-hosted AI pipelines — this is a working portfolio, not a resume.
-
-> *"I don't just build apps. I build systems that think."*
-
-📬 Open to collaborations, plugin development, and big ideas.  
-Let's build something that matters. 🚀
+📬 **Open to interesting collaborations, technical challenges, and ideas worth building.**
